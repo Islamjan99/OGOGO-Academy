@@ -1,0 +1,211 @@
+{
+	"navBar": {
+		"work": "Work of students",
+		"installment": "Installment",
+		"faq": "FAQ",
+		"contacts": "Contacts",
+		"courses": "Courses"
+	},
+	"contacts": {
+		"contact": "Contact us",
+		"info": "If you still have questions, please leave your contacts in the application form and our manager will contact you as soon as possible.",
+		"inp": "Phone number",
+		"btn": "Send"
+	},
+	"home": {
+		"Courses": "Courses",
+		"prog": " programming in Bishkek",
+		"academy": "Academy"
+	},
+	"slide": {
+		"think": "Think. ",
+		"learn": "Learn.",
+		"create": "Create."
+	},
+	"FAQ": {
+		"faq": "Frequently asked questions"
+	},
+	"installment": {
+		"installments": "Payment by installments",
+		"down": "Installment without down payment and overpayments up to 12 months. The term for consideration of installments is from 1 to 2 days.",
+		"req": "Leave a request"
+	},
+	"Work": {
+		"title": "Graduation works of students",
+		"worksBurul": {
+			"one": "3rd group",
+			"two": "Burul",
+			"three": "I am glad that I got to the 3rd stream, with these guys, I am glad for every assessment, every mistake and I am proud of every work  I’ve done. I have room to grow and thankful that the first course was the OGOGO Academy, this team and your course. Everyone believes that you will become a top academy, and I believe that it will be so. Thank you very much!",
+			"threeNone": "I am glad that I got to the 3rd stream, with these guys, I am glad for every assessment, every mistake and I am proud of every work  I’ve done. I have room to grow and thankful that the first course was the OGOGO Academy, this team and your course. Everyone believes that you will become a top academy, and I believe that it will be so. Thank you very much!"
+		},
+		"worksFaruh": {
+			"one": "2rd group",
+			"two": "Farukh",
+			"three": "The OGOGO Academy course helped me improve my design skills and become more confident"
+		},
+		"worksRatmir": {
+			"one": "3rd group",
+			"two": "Ratmir",
+			"three": "The OGOGO Academy course helped me improve my design skills and reach a more confident level, and since I practiced almost every day during the course, it turned out to be done quite quickly. I want to say a big thank you to OGOGO Academy for great lessons, support, sense of style and high design skills!",
+			"threeNone": "The courses helped me improve my design skills and reach more confident level and, since during the training I practice almost every day."
+		},
+		"worksFiruza": {
+			"one": "3rd group",
+			"two": "Firuza",
+			"three": "I want to thank OGOGO Academy for such a valuable course!) Here you will be taught the basics of web design and even more - you can find yourself a great company of people who are as charged as you are) Submission of material, checking lessons - all this is at the highest level!"
+		},
+		"worksAlex": {
+			"one": "2rd group",
+			"two": "Alex",
+			"three": "The best training I have ever had! No water in the course, only the most relevant topics, practice and improve skills! Thanks for the cool pumping me as a web designer!)"
+		}
+	},
+	"Footer": {
+		"top": {
+			"one": "License for educational",
+			"two": "activities №LS200001652 from December 3rd 2020",
+			"three": "Bishkek"
+		},
+		"middle": {
+			"one": "Do you want to work with us?",
+			"two": "Submit your CV в telegram -",
+			"three": "@ogogo_academy"
+		},
+		"bottom": {
+			"one": "Interested in collaboration?",
+			"two": "Send your commercial offer to us in telegram  -",
+			"three": "ogogoacademy@gmail.com"
+		}
+	},
+	"UX_UI": {
+		"ux": "Design",
+		"contact": "Sign up",
+		"info": {
+			"leftOne": "Duration",
+			"leftTwo": "2 month",
+			"middleOne": "Additionally",
+			"middleTwo": "20+ video lessons",
+			"rightOne": "Development",
+			"rightTwo": "3+ projects"
+		},
+		"infoMiddle": {
+			"title": "What is UI/UX design?",
+			"infoOne": "UI design is a prototyping process that was developed based on users experience and observational researches. UX design is the design of an interface based on users experience and behavior researches.",
+			"infoTwo": "The difference between UX and UI is that the UX designer plans how the user interacts with the interface, what steps he needs to take in order to achieve the goal. And the UI designer thinks over how these steps and the path to the goal will look like.",
+			"infoThree": "• You will get acquainted with the key tools, get an understanding of visual communication and learn how to apply it in practice, create works in Figma and practice portfolio design.",
+			"infoFour": "• You'll get all the tools you need to get started quickly in UX/UI design, learn how to think and act creatively, and build a portfolio that will impress employers.",
+			"infoFive": "• You will learn how to develop digital products from idea to finished layout, understand business requirements, and be able to conduct research and work with hypotheses. And also - to find clients and work without an office from anywhere in the world."
+		},
+		"program": {
+			"courses": "Course program",
+			"basis": "6 Essential Skills You Will Learn on the Course",
+			"first": "First month",
+			"firstMonth": {
+				"one": "1. Figma, plugins, bootstrap grid, side bar, auto layout",
+				"two": "2. Landing page creation",
+				"three": "3. Working on the dashboard, prototyping"
+			},
+			"second": "Second month",
+			"secondMonth": {
+				"one": "1. Creating a mobile adaptive and application",
+				"two": "2. Learning bootstrap grid for mobile devices, Status bar",
+				"three": "3. Portfolio work, Mockups, final project"
+			}
+		}
+	},
+	"js": {
+		"title": "Frontend development",
+		"contact": "Sign up",
+		"info": {
+			"leftOne": "Duration",
+			"leftTwo": "4 month",
+			"middleOne": "Additionally",
+			"middleTwo": "60+ video lessons",
+			"rightOne": "Development",
+			"rightTwo": "4+ projects"
+		},
+		"infoMiddle": {
+			"title": "What is JavaScript?",
+			"infoOne": "First of all, JavaScript is widely used in front-end development. This language, along with HTML and CSS, is included in the basic front-end toolkit. JavaScript is used to create applications that run in the browser on the client side. They provide interactive sites.",
+			"infoTwo": "The scope of JavaScript is not limited to browsers and web applications. This language is used to solve the following problems:",
+			"infoThree": "• Development of native applications. For example, using the React Native framework, applications for Android and iOS are created.",
+			"infoFour": "Development of desktop applications. JS is used in Microsoft and OpenOffice office suites, in Adobe applications",
+			"infoFive": "• Programming equipment and household appliances, such as payment terminals, set-top boxes."
+		},
+		"program": {
+			"courses": "Course program",
+			"basis": "9 Essential Skills You Will Learn on the Course",
+			"first": "First month",
+			"firstMonth": {
+				"one": "1. Primitive types and Variables",
+				"two": "2. Creating and Deleting Object Properties",
+				"three": "3. Assignment operators: unary and binary"
+			},
+			"second": "Second month",
+			"secondMonth": {
+				"one": "1. Default Function Parameter Values",
+				"two": "2. Array vs Object",
+				"three": "3. Cycles for, do while,do, for in, for of"
+			},
+			"third": "Third month",
+			"ThirdMonth": {
+				"one": "1. Calling fetch inside a promise",
+				"two": "2. Asynchronous Functions",
+				"three": "3. Handling Errors in Asynchronous Functions"
+			},
+			"four": "Fourth month",
+			"fourMonth": {
+				"one": "1.  TypeScript",
+				"two": "2.  WebPack"
+			}
+		}
+	},
+	"python": {
+		"title": "Backend development",
+		"contact": "Sign up",
+		"info": {
+			"leftOne": "Duration",
+			"leftTwo": "4 month",
+			"middleOne": "Additionally",
+			"middleTwo": "60+ video lessons",
+			"rightOne": "Development",
+			"rightTwo": "3+ projects"
+		},
+		"infoMiddle": {
+			"title": "What is Python?",
+			"infoOne": "In fact, with Python, everything is as clear as possible - it is simple and versatile, so it can be used to work in many areas:",
+			"infoTwo": "Web development, GUI, databases, system programming, complex computing processes,machine learning,process automation, gaming industry.",
+			"infoThree": "• Web development Relatively recently, Python frameworks have become very popular in web development. They make it easier to write back-end application code in Python.",
+			"infoFour": "Data science: machine learning, data analysis, visualization. Machine learning is the science of making AI learn and act like a human.",
+			"infoFive": "•Process automation. Writing small scripts to automate various work operations and processes."
+		},
+		"program": {
+			"courses": "Course program",
+			"basis": "9 Essential Skills You Will Learn on the Course",
+			"first": "First month",
+			"firstMonth": {
+				"one": "1. introduction",
+				"two": "2. Python Programming Basics",
+				"three": "3. Object Oriented Programming"
+			},
+			"second": "Second month",
+			"secondMonth": {
+				"one": "1. Database",
+				"two": "2. Testing",
+				"three": "3. GIT"
+			},
+			"third": "Third month",
+			"ThirdMonth": {
+				"one": "1. Django, HTML/CSS",
+				"two": "2. Restful API, Django REST Framework",
+				"three": "3 Docker, Desploy"
+			},
+			"four": "Fourth month",
+			"fourMonth": {
+				"one": "1.  RESTFUL API, DJANGO REST",
+				"two": "2.  FIREBASE GOOGLE, FACEBOOK AUTH",
+				"three": "3. Docker, Deploy"
+			}
+		}
+	}
+}

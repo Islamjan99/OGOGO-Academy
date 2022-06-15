@@ -1,0 +1,23 @@
+.language__wrapper {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 4rem;
+	button {
+		border: none;
+		background: none;
+		color: var(--nav-text-color);
+		font-size: 1rem;
+		font-weight: 600;
+		cursor: pointer;
+		line-height: 118.75%;
+	}
+	.active {
+		border-bottom: 3px solid #ff7a00;
+		margin-bottom: -3px;
+	}
+	div {
+		border: 1px solid var(--course-text);
+		height: 1.1rem;
+	}
+}
