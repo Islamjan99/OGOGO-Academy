@@ -22,6 +22,7 @@ const NavBar = () => {
 					<li>
 						<a href='#footer'>{t('navBar.contacts')}</a>
 					</li>
+					<a href='https://english.ogogoacademy.kg/'>ogogo english</a>
 				</ul>
 			) : (
 				<ul className={styles.nav}>

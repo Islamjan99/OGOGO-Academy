@@ -423,17 +423,24 @@
 		}
 		@media all and (max-width: 767px) {
 			width: calc(100% - 80px);
-			margin: 1rem auto;
+			margin: 2rem auto;
 		}
 		@media all and (max-width: 575px) {
 			width: 20rem;
 			margin: 1.875rem auto 1.875rem auto;
+		}
+		@media all and (max-width: 380px) {
+			width: 17rem;
 		}
 		@media all and (max-width: 320px) {
 			margin-top: 4.3125rem;
 			justify-content: center;
 		}
 		.footer__logo {
+			width: 100px;
+			display: flex;
+			align-items: flex-end;
+			justify-content: space-between;
 			cursor: pointer;
 			@media all and (max-width: 320px) {
 				display: none;

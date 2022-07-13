@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom'
 import styles from './Footer.module.scss'
 import { useTranslation } from 'react-i18next'
+import logo from './Group 15912.svg'
 import '../../i18next.js'
 
 const Footer = () => {
@@ -97,6 +98,9 @@ const Footer = () => {
 								fill='#FF7A00'
 							/>
 						</svg>
+					</a>
+					<a href='/'>
+						<img width='41' src={logo} alt='logo ogogo english' />
 					</a>
 				</div>
 				<div className={styles.footer__social}>
